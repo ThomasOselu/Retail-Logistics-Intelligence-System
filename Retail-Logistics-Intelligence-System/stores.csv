@@ -1,0 +1,51 @@
+store_id,region,city,manager,store_size
+ST1,Coast,Eldoret,Manager_1,301
+ST2,Rift Valley,Mombasa,Manager_2,1843
+ST3,Central,Nakuru,Manager_3,1910
+ST4,Central,Kisumu,Manager_4,1725
+ST5,Western,Nairobi,Manager_5,801
+ST6,Coast,Nairobi,Manager_6,1388
+ST7,Western,Kisumu,Manager_7,657
+ST8,Coast,Eldoret,Manager_8,1947
+ST9,Central,Kisumu,Manager_9,1965
+ST10,Nairobi,Nakuru,Manager_10,1163
+ST11,Rift Valley,Mombasa,Manager_11,678
+ST12,Central,Kisumu,Manager_12,1236
+ST13,Western,Kisumu,Manager_13,1462
+ST14,Rift Valley,Mombasa,Manager_14,1185
+ST15,Central,Nairobi,Manager_15,326
+ST16,Coast,Nakuru,Manager_16,273
+ST17,Western,Kisumu,Manager_17,1119
+ST18,Central,Kisumu,Manager_18,1257
+ST19,Coast,Nairobi,Manager_19,1408
+ST20,Coast,Nakuru,Manager_20,1910
+ST21,Coast,Mombasa,Manager_21,1749
+ST22,Rift Valley,Mombasa,Manager_22,1231
+ST23,Western,Eldoret,Manager_23,242
+ST24,Coast,Nakuru,Manager_24,668
+ST25,Central,Nakuru,Manager_25,1417
+ST26,Coast,Kisumu,Manager_26,376
+ST27,Western,Eldoret,Manager_27,1615
+ST28,Rift Valley,Mombasa,Manager_28,1686
+ST29,Coast,Nakuru,Manager_29,1594
+ST30,Central,Nakuru,Manager_30,375
+ST31,Western,Nairobi,Manager_31,333
+ST32,Coast,Mombasa,Manager_32,1365
+ST33,Rift Valley,Nairobi,Manager_33,1381
+ST34,Nairobi,Eldoret,Manager_34,1872
+ST35,Central,Nakuru,Manager_35,131
+ST36,Coast,Eldoret,Manager_36,1490
+ST37,Coast,Nairobi,Manager_37,1471
+ST38,Nairobi,Mombasa,Manager_38,859
+ST39,Western,Nakuru,Manager_39,1255
+ST40,Nairobi,Mombasa,Manager_40,1898
+ST41,Western,Eldoret,Manager_41,1894
+ST42,Coast,Kisumu,Manager_42,892
+ST43,Nairobi,Mombasa,Manager_43,1491
+ST44,Coast,Mombasa,Manager_44,861
+ST45,Nairobi,Mombasa,Manager_45,364
+ST46,Coast,Nakuru,Manager_46,314
+ST47,Coast,Eldoret,Manager_47,1338
+ST48,Coast,Eldoret,Manager_48,381
+ST49,Rift Valley,Nakuru,Manager_49,1955
+ST50,Nairobi,Mombasa,Manager_50,629
